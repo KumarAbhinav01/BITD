@@ -1,5 +1,5 @@
 <?php 
-	$con=mysqli_connect("localhost","root","","imperial_college");
+	$con=mysqli_connect("localhost","root","","accountsdb");
 	if(!$con)
 	{
 		echo "Connection is not Successfully";

@@ -1,5 +1,5 @@
 <?php
-    $mysqli = new mysqli("localhost","root","","saicafe");
+    $mysqli = new mysqli("localhost","root","","canteendb");
 
     if($mysqli -> connect_errno){
         header("location: db_error.php");
