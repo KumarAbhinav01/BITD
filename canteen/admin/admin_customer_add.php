@@ -147,12 +147,13 @@
         </form>
     </div>
     <div class="container mt-4"></div>
-    <footer
-        class="footer d-flex flex-wrap justify-content-between align-items-center px-5 py-3 mt-auto bg-secondary text-light">
-        <div class="text-center p-2 p-2 mb-1 bg-dark text-white">
-    <p class="text-white">Software By Abhinav and Ridhima</p>
+    <footer class="text-center text-white">
+  <!-- Copyright -->
+  <div class="text-center p-2 p-2 mb-1 bg-dark text-white">
+    <p class="text-white">Software By Abhinav and Riddhima</p>
   </div>
-    </footer>
+  <!-- Copyright -->
+</footer>
 </body>
 
 </html>

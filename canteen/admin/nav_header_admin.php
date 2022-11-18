@@ -12,8 +12,11 @@
         </button>
         <div class="navbar-collapse collapse" id="navbarCollapse">
             <ul class="navbar-nav me-auto mb-2 mb-md-0">
+            <li class="nav-item">
+                    <a class="nav-link px-2 text-dark" href="../index.php">Home</a>
+                </li>
                 <li class="nav-item">
-                    <a class="nav-link px-2 text-dark" href="admin_home.php">Home</a>
+                    <a class="nav-link px-2 text-dark" href="admin_home.php">Dashboard</a>
                 </li>
                 <li class="nav-item">
                     <a href="admin_customer_list.php" class="nav-link px-2 text-dark">Customer</a>

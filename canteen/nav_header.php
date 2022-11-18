@@ -25,7 +25,8 @@
             <div class="d-flex">
                 <?php if(!isset($_SESSION['cid'])){ ?>
                 <a class="btn btn-primary me-2" href="cust_regist.php">Sign Up</a>
-                <a class="btn btn-success" href="cust_login.php">Log In</a>
+                <a class="btn btn-success me-2" href="cust_login.php">Log In</a>
+                <a class="btn btn-dark me-2" href="admin/admin_login.php">Admin</a>
                 <?php }else{ ?>
 
 
@@ -60,6 +61,7 @@
                     </li>
                     <li class="nav-item">
                         <a class="mx-2 mt-1 mt-md-0 btn btn-outline-danger" href="logout.php">Log Out</a>
+                        <a class="btn btn-success" href="admin/admin_home.php">Admin</a>
                     </li>
                 </ul>
                 <?php } ?>

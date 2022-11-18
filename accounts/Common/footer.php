@@ -36,5 +36,5 @@
       </div>
     </div>
     </div>
-  <p class="footer-bottom-text">CopyRights © 2022 | Software by Abhinav and Ridhima</p>
+  <p class="footer-bottom-text">CopyRights © 2022 | Software by Abhinav and Riddhima</p>
 </footer>
