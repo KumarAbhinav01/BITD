@@ -369,15 +369,15 @@
                             </button>
                             <?php }else{ ?>
                             <script type="text/javascript" src="https://cdn.omise.co/omise.js"
-                                data-key="pkey_test_5qtd0o2x3znnduisr3e"
+                                data-key="pkey_test_5tudhgtzqjhck79ldf2"
                                 data-image="https://drive.google.com/file/d/1fen9-eomrWPnZhmcQ2u-sqHLRex4ir4U/view?usp=sharing"
-                                data-frame-label="Sai Cafe"
+                                data-frame-label="BIT CANTEEN"
                                 data-button-label="Proceed with payment"
                                 data-submit-label="Submit"
                                 data-locale="en"
                                 data-location="no"
                                 data-amount="<?php echo $order_cost*100;?>"
-                                data-currency="THB">
+                                data-currency="INR">
                             </script>
                             <?php } ?>
                         </div>
