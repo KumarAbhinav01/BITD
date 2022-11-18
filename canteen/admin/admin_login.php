@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link href="../css/login.css" rel="stylesheet">
     <link href="../img/ICON_F.png" rel="icon">
-    <title>Log in | BITD CANTEEN</title>
+    <title>Log in | BIT Cafe</title>
 </head>
 
 <body class="d-flex flex-column h-100">

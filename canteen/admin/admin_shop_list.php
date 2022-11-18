@@ -16,7 +16,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="../img/ICON_F.png" rel="icon">
     <link href="../css/main.css" rel="stylesheet">
-    <title>Shop List | EATERIO</title>
+    <title>Shop List | BIT Cafe</title>
 </head>
 
 <body class="d-flex flex-column h-100">
@@ -132,7 +132,7 @@
                 }
             ?>
 
-            <h2 class="pt-3 display-6">Shop List</h2>
+            <h2 class="pt-3 display-6"> </h2>
             <form class="form-floating mb-3" method="GET" action="admin_shop_list.php">
                 <div class="row g-2">
                     <div class="col">
