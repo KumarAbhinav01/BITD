@@ -28,25 +28,33 @@ The "Computerization of BITD" is a comprehensive software engineering project de
 
 The Canteen Management module focuses on streamlining the canteen's operations, from inventory management to order processing. It includes features such as listing inventory items, managing packaged and non-packaged food items, vendor supply management, order computerization, online ordering, payment methods, delivery system, billing, feedback, staff management, and more.
 
-For detailed information, please refer to the [Canteen Management Documentation](/module_1_canteen_management).
+![Canteen System](https://github.com/Abhi6722/BITD/blob/main/githubassets/canteen.png)
+
+For detailed information, please refer to the [Canteen Module](/canteen).
 
 ### Module 2: Accounts Management
 
 The Accounts Management module aims to efficiently handle financial tasks within the institute. It encompasses functionalities like banking management, budget management, financial statements generation, inventory management, billing processes automation, expense reporting, analyzing data, fixed assets management, payroll generation, online payment, student payments tracking, and more.
 
-For detailed information, please refer to the [Accounts Management Documentation](/module_2_accounts_management).
+![Accounts Module](https://github.com/Abhi6722/BITD/blob/main/githubassets/accounts.png)
+
+For detailed information, please refer to the [Accounts Management](/accounts).
 
 ### Module 3: Faculty Recruitment
 
 The Faculty Recruitment module simplifies the process of recruiting faculty members for the institute. It includes functionalities such as applicant registration, login, resume submission, job notifications, interview scheduling, result declaration, communication between applicants and the recruitment team, and more.
 
-For detailed information, please refer to the [Faculty Recruitment Documentation](/module_3_faculty_recruitment).
+![Faculty Recruitment Module](https://github.com/Abhi6722/BITD/blob/main/githubassets/faculty.png)
+
+For detailed information, please refer to the [Faculty Recruitment](/recruitment).
 
 ### Module 4: Placement Cell
 
 The Placement Cell module aims to enhance the efficiency of the institute's placement process. It provides features like student registration, company details management, resume submission, company applications, selection process management, result declaration, communication between companies and students, and more.
 
-For detailed information, please refer to the [Placement Cell Documentation](/module_4_placement_cell).
+![Placement Module](https://github.com/Abhi6722/BITD/blob/main/githubassets/placement.png)
+
+For detailed information, please refer to the [Placement Cell](/placement).
 
 ## Getting Started
 
@@ -54,7 +62,7 @@ To access the documentation, diagrams, and other project-related files for each 
 
 ## Documentation
 
-The project documentation for each module can be found in the respective module folders or in the Project Report folder. The documentation provides in-depth insights into the requirements, functionalities, and visual representations of the modules' processes.
+The project documentation for each module can be found in the respective module folders or in the Project Report folder [view Report](https://github.com/Abhi6722/BITD/blob/main/githubassets/Project%20Report.pdf). The documentation provides in-depth insights into the requirements, functionalities, and visual representations of the modules' processes.
 
 ## Contributing
 
